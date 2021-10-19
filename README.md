@@ -1,8 +1,7 @@
 # sentiment_summarizer
 
 
-----------------------------------------------------------------UPDATE-0------------------------------------------------------------------------
-
+Update #1
 Present:
 
 1. A maximum entropy classifier that predicts each sentence of a review whether it is positive or negativee.
@@ -35,7 +34,7 @@ To Do:
 4. Make json loading more smooth for loading reviews to be summarized.
 
 
-----------------------------------------------------------------UPDATE-1------------------------------------------------------------------------
+Update #2
 
 Dependencies:
 1. Python2
@@ -69,7 +68,7 @@ To Do:
 2. Revisit the code of extract_aspects.py for amends
 
 
-----------------------------------------------------------------UPDATE-2------------------------------------------------------------------------
+Update #3
 
 Checklist for To-Do from Updates 1:
 1. checked
